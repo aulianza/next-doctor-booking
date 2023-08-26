@@ -84,15 +84,15 @@ const AppointmentCard = ({
           </div>
         </div>
         <div className="space-y-3">
-          <div className="flex gap-2 items-center text-xs">
+          <div className="flex gap-2 text-xs">
             <IdIcon size={14} />
             <div>Booking ID: {id}</div>
           </div>
-          <div className="flex gap-2 items-center text-xs">
+          <div className="flex gap-2 text-xs">
             <PatientIcon size={14} />
             <div>Patient Name: {name}</div>
           </div>
-          <div className="flex gap-2 items-center text-xs">
+          <div className="flex gap-2 text-xs">
             <InfoIcon size={14} />
             <div className="flex items-center gap-2">
               Status:

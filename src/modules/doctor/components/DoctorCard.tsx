@@ -27,13 +27,13 @@ const DoctorCard = ({ id, name, address }: DoctorProps) => {
           </div>
         </div>
         <div className="space-y-2">
-          <div className="flex gap-2 items-center text-xs">
+          <div className="flex gap-2 text-xs">
             <AddressIcon size={14} />
             <span>
               {address?.line_1}, {address?.line_2}, {address?.district}
             </span>
           </div>
-          <div className="flex gap-2 items-center text-xs">
+          <div className="flex gap-2 text-xs">
             <ClockIcon size={13} />
             <span>Available: Today</span>
           </div>

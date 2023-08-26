@@ -1,8 +1,8 @@
-# Bowtie Frontend Engineer Technical Assessment
+# Frontend Engineer Technical Assessment
 
 by Ryan Aulia
 
-Live Demo: https://bowtie-ryan-fe-test.vercel.app/
+Live Demo: https://necktie-eryan-fe-test.vercel.app/
 
 ### Choice of Package
 

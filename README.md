@@ -2,7 +2,7 @@
 
 by Ryan Aulia
 
-Live Demo: https://necktie-eryan-fe-test.vercel.app/
+Live Demo: https://necktie-ryan-fe-test.vercel.app/
 
 ### Choice of Package
 
